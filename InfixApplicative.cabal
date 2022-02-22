@@ -11,7 +11,6 @@ Category:            Control
 build-type:          Simple
 
 Library
-  Build-Depends:        base       >= 3.0 && <= 5.0,
-                        haskell98  >= 1.0
+  Build-Depends:        base       >= 3.0 && <= 5.0
   Hs-Source-Dirs:       src
   Exposed-Modules:      Control.Applicative.Infix
